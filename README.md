@@ -1,1 +1,2 @@
-![image](but.jpg)
+<img src="but.jpg" alt="butterfly">
+
